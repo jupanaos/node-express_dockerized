@@ -1,0 +1,13 @@
+{
+    "name": "node-dockerizeme",
+    "version": "1.0",
+    "description": "Node.js on Docker",
+    "author": "Jupanaos",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
